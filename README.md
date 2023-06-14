@@ -42,4 +42,4 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları taki
 
 
 
-![Açıklama](https://example.com/path/to/image.jpg)
+
