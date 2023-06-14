@@ -41,7 +41,7 @@ If you would like to contribute to the project, please follow these steps:
 
 
 
-
+![Mavi Penguen Duvar Kağıdı](https://raw.githubusercontent.com/Elagoht/OneLinePinguin/main/pinguin-blue.png)
 
 
 
