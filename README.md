@@ -1,44 +1,44 @@
-# TikTok Uygulaması
+# TikTok App
 
-Bu proje, TikTok benzeri bir uygulama oluşturmayı hedeflemektedir. TikTok Scraper API'sini kullanarak, uygulama içerisinde beğeni sayıları, görüntülenme sayıları, kullanıcı profilleri, yorumlar ve diğer ilgili özellikleri barındıran bir TikTok deneyimi sunmayı amaçlamaktadır.
+This project aims to create a TikTok-like application. By using the TikTok Scraper API, it aims to provide a TikTok experience that includes the number of likes, views, user profile, comments, and other related features within the application.
 
-## Başlangıç
+## Getting Started
 
-Bu adımlar, projenin yerel bir kopyasını geliştirme veya test etme amacıyla nasıl kurulacağına yönelik talimatları içermektedir.
+These steps include instructions on how to set up a local copy of the project for development or testing purposes.
 
-### Gereksinimler
+### Requirements
 
-Projenin çalışması için aşağıdaki gereksinimlere ihtiyaç vardır:
+The following requirements are needed for the project to work:
 
 - Node.js
 - NPM (Node Package Manager)
 
-### Kurulum
+### Installation
 
-1. Bu depoyu bilgisayarınıza klonlayın: `git clone https://github.com/your-username/TikTok.git`
-2. Proje dizinine gidin: `cd TikTok`
-3. Gerekli paketleri yüklemek için aşağıdaki komutu çalıştırın: `npm install`
-4. Uygulamayı başlatmak için aşağıdaki komutu çalıştırın: `npm start`
-5. Tarayıcınızda `http://localhost:3000` adresine giderek uygulamayı görüntüleyebilirsiniz.
+1. Clone this repository to your computer: `git clone https://github.com/your-username/TikTok.git`
+2. Navigate to the project directory: `cd TikTok`
+3. Run the following command to install the required packages: `npm install`
+4. Start the application by running the following command: `npm start`
+5. You can view the application by visiting `http://localhost:3000` in your browser.
 
-## Kullanım
+## Usage
 
-TikTok uygulaması, kullanıcıların beğeni sayılarını, görüntülenme sayılarını, kullanıcı profillerini ve diğer ilgili bilgileri görmelerine olanak tanır. Ayrıca, kullanıcılar videoları izleyebilir, yorum yapabilir ve paylaşabilirler. Uygulama, TikTok Scraper API'sini arka planda kullanarak verilere erişir ve güncel bilgileri sunar.
+The TikTok application allows users to view the number of likes, views, user profiles, and other related information. Additionally, users can watch, comment on, and share videos. The application accesses the data and provides up-to-date information using the TikTok Scraper API in the background.
 
-## Katkılar
+## Contributions
 
-Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+If you would like to contribute to the project, please follow these steps:
 
-1. Bu repo'yu forklayın.
-2. Yeni bir branch oluşturun: `git checkout -b feature/my-feature`
-3. Yaptığınız değişiklikleri commit edin: `git commit -am 'Add some feature'`
-4. Branch'inizi kendi fork'unuza pushlayın: `git push origin feature/my-feature`
-5. Bir pull request açın ve değişikliklerinizi tartışmaya açın.
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/my-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push your branch to your fork: `git push origin feature/my-feature`
+5. Open a pull request and initiate a discussion about your changes.
 
-
-## İletişim
+## Contact
 
 - yusuffbaba17@gmail.com
+
 
 
 
