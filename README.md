@@ -1,3 +1,5 @@
+![Mavi Penguen Duvar Kağıdı](https://raw.githubusercontent.com/Elagoht/OneLinePinguin/main/pinguin-blue.png)
+
 # TikTok App
 
 This project aims to create a TikTok-like application. By using the TikTok Scraper API, it aims to provide a TikTok experience that includes the number of likes, views, user profile, comments, and other related features within the application.
@@ -41,7 +43,7 @@ If you would like to contribute to the project, please follow these steps:
 
 
 
-![Mavi Penguen Duvar Kağıdı](https://raw.githubusercontent.com/Elagoht/OneLinePinguin/main/pinguin-blue.png)
+
 
 
 
