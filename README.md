@@ -42,12 +42,4 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları taki
 
 
 
-![Açıklama](https://www.google.com/search?q=aslan+resmi+jpg&rlz=1C1CHWL_trTR1039TR1039&sxsrf=APwXEdecMk-7EbhBL_VfcrDhB6DSs6tBHA:1686736055381&source=lnms&tbm=isch&sa=X&ved=2ahUKEwicnqS7vcL_AhX9SPEDHbJvAQ8Q_AUoAXoECAIQAw#imgrc=wMo18Er-nRcj0M)
-
-
-
-
-
-![](data:image/jpeg;base64,base64_encoded_image)
-
-
+![Açıklama](https://example.com/path/to/image.jpg)
