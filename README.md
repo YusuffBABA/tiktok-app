@@ -40,3 +40,9 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları taki
 
 - yusuffbaba17@gmail.com
 
+
+
+
+![Açıklama](data:image/jpeg;base64,base64_encoded_image)
+
+
