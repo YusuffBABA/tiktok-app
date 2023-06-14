@@ -43,6 +43,6 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları taki
 
 
 
-![Açıklama](data:image/jpeg;base64,base64_encoded_image)
+![](data:image/jpeg;base64,base64_encoded_image)
 
 
