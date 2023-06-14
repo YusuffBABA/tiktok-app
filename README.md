@@ -40,7 +40,7 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları taki
 
 - yusuffbaba17@gmail.com
 
-<span style="color:blue">Bu başlık mavi renkte olacak</span>
+<span style="color:red">Bu metin kırmızı renkte olacak</span>
 
 
 
